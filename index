@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trisha Acharya's Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Trisha Acharya</h1>
+        <nav>
+            <ul class="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="experience.html">Experience</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+       <img src="Trisha_image.jpg" alt="Trisha Acharya" class="profile-img">
+	   <div class="content">
+	   <h2>Welcome to My Portfolio</h2>
+     
+        <p><p>I am Trisha Acharya, an aspiring IT professional with a passion for technology and a love for continuous learning. Currently pursuing a degree in Computer Information Technology, I am eager to apply my skills in web development and explore new opportunities through internships. I believe in making technology a friend for life, and I am always excited to learn and grow.</p>
+    </div>
+</div>	
+
+    <footer>
+        <p>&copy; 2024 Trisha Acharya</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
